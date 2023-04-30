@@ -1,0 +1,53 @@
+
+a:link {
+    text-decoration: none;  
+    color: red;
+    
+  }
+  
+::placeholder{
+    color: rgba(213, 210, 210, 0.351) !important;
+}
+.main-col{
+    background-color: #24353F;
+}
+
+.login-form{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.txt-col{
+    color: #17A2B8;
+}
+
+.btn-form{
+    color: #17A2B8 ;
+    border: 1px solid #17A2B8;
+    transition: all 0.5s ease-in-out;
+    
+}
+.btn-form:hover{
+    color: #fff ;
+    background-color:  #17A2B8;
+    
+}
+p a{
+    text-decoration: none;
+
+}
+
+p a:hover{
+    text-decoration:underline;
+}
+
+.navbar{
+    background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.success-col{
+    color: rgb(5, 194, 5);
+}
+::-webkit-calendar-picker-indicator {
+    filter: invert(1) !important;
+}
